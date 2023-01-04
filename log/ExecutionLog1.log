@@ -1,0 +1,336 @@
+2022-12-21 12:03:41,171 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 12:03:41,269 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 12:03:44,418 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 12:03:45,102 [main] INFO Banking_Log - User Will Login.
+2022-12-21 12:14:00,191 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 12:14:00,223 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 12:14:05,030 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 12:14:05,473 [main] INFO Banking_Log - User Will Login.
+2022-12-21 12:14:37,399 [main] INFO Banking_Log - Test case passed
+2022-12-21 12:14:46,112 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 13:36:04,491 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 13:36:04,661 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 13:36:07,648 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 13:36:07,776 [main] INFO Banking_Log - User Will Login.
+2022-12-21 13:36:23,961 [main] INFO Banking_Log - Test case passed
+2022-12-21 13:36:32,236 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 13:58:34,709 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 13:58:34,721 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 13:58:34,993 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 13:58:35,308 [main] INFO Banking_Log - User Will Login.
+2022-12-21 13:58:38,265 [main] INFO Banking_Log - Test case passed
+2022-12-21 13:58:46,555 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 13:59:30,952 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-21 13:59:31,059 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-21 13:59:31,265 [main] INFO Banking_Log - Setting the DOB
+2022-12-21 13:59:31,458 [main] INFO Banking_Log - Setting the Address
+2022-12-21 13:59:31,710 [main] INFO Banking_Log - Setting the City
+2022-12-21 13:59:31,890 [main] INFO Banking_Log - Setting the State
+2022-12-21 13:59:32,040 [main] INFO Banking_Log - Setting the Pin
+2022-12-21 13:59:32,195 [main] INFO Banking_Log - Setting the Telephone
+2022-12-21 13:59:32,400 [main] INFO Banking_Log - Setting the Email
+2022-12-21 14:01:57,928 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 14:01:57,946 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 14:01:58,181 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 14:01:58,360 [main] INFO Banking_Log - User Will Login.
+2022-12-21 14:02:00,758 [main] INFO Banking_Log - Test case passed
+2022-12-21 14:02:08,949 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 14:02:42,776 [main] INFO Banking_Log - Handling the frame - Dismiss.
+2022-12-21 14:02:46,006 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-21 14:02:46,128 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-21 14:02:46,262 [main] INFO Banking_Log - Setting the DOB
+2022-12-21 14:02:46,464 [main] INFO Banking_Log - Setting the Address
+2022-12-21 14:02:46,592 [main] INFO Banking_Log - Setting the City
+2022-12-21 14:02:46,733 [main] INFO Banking_Log - Setting the State
+2022-12-21 14:02:46,865 [main] INFO Banking_Log - Setting the Pin
+2022-12-21 14:02:47,012 [main] INFO Banking_Log - Setting the Telephone
+2022-12-21 14:02:47,224 [main] INFO Banking_Log - Setting the Email
+2022-12-21 14:04:48,621 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 14:04:48,634 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 14:04:48,915 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 14:04:49,108 [main] INFO Banking_Log - User Will Login.
+2022-12-21 14:04:51,633 [main] INFO Banking_Log - Test case passed
+2022-12-21 14:04:59,790 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 14:10:04,205 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 14:10:04,219 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 14:10:04,863 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 14:10:05,052 [main] INFO Banking_Log - User Will Login.
+2022-12-21 14:10:07,182 [main] INFO Banking_Log - Test case passed
+2022-12-21 14:10:15,350 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 14:15:47,899 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 14:15:47,907 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 14:15:48,242 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 14:15:48,472 [main] INFO Banking_Log - User Will Login.
+2022-12-21 14:16:55,134 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 14:16:55,158 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 14:16:55,363 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 14:16:55,604 [main] INFO Banking_Log - User Will Login.
+2022-12-21 14:16:57,562 [main] INFO Banking_Log - Test case passed
+2022-12-21 14:17:05,718 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 14:17:46,528 [main] INFO Banking_Log - Handling the frame - Dismiss.
+2022-12-21 14:17:49,658 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-21 14:17:49,739 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-21 14:17:49,863 [main] INFO Banking_Log - Setting the DOB
+2022-12-21 14:17:49,998 [main] INFO Banking_Log - Setting the Address
+2022-12-21 14:17:50,096 [main] INFO Banking_Log - Setting the City
+2022-12-21 14:17:50,217 [main] INFO Banking_Log - Setting the State
+2022-12-21 14:17:50,316 [main] INFO Banking_Log - Setting the Pin
+2022-12-21 14:17:50,425 [main] INFO Banking_Log - Setting the Telephone
+2022-12-21 14:17:50,584 [main] INFO Banking_Log - Setting the Email
+2022-12-21 14:17:51,148 [main] INFO Banking_Log - Clicking Submit
+2022-12-21 15:43:23,007 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 15:43:23,030 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 15:43:23,284 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 15:43:23,472 [main] INFO Banking_Log - User Will Login.
+2022-12-21 15:43:25,715 [main] INFO Banking_Log - Test case passed
+2022-12-21 15:43:33,865 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 15:44:22,566 [main] INFO Banking_Log - Handling the frame - Dismiss.
+2022-12-21 15:44:25,656 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-21 15:44:25,736 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-21 15:44:25,848 [main] INFO Banking_Log - Setting the DOB
+2022-12-21 15:44:26,006 [main] INFO Banking_Log - Setting the Address
+2022-12-21 15:44:26,223 [main] INFO Banking_Log - Setting the City
+2022-12-21 15:44:26,361 [main] INFO Banking_Log - Setting the State
+2022-12-21 15:44:26,466 [main] INFO Banking_Log - Setting the Pin
+2022-12-21 15:44:26,578 [main] INFO Banking_Log - Setting the Telephone
+2022-12-21 15:44:26,733 [main] INFO Banking_Log - Setting the Email
+2022-12-21 15:44:27,308 [main] INFO Banking_Log - Clicking Submit
+2022-12-21 15:45:31,433 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 15:45:31,440 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 15:45:31,749 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 15:45:31,947 [main] INFO Banking_Log - User Will Login.
+2022-12-21 15:45:33,918 [main] INFO Banking_Log - Test case passed
+2022-12-21 15:45:42,074 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 16:28:50,640 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 16:28:50,684 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 16:28:50,990 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 16:28:52,067 [main] INFO Banking_Log - User Will Login.
+2022-12-21 16:50:02,191 [main] INFO Banking_Log - Browser Will Open.
+2022-12-21 16:50:02,286 [main] INFO Banking_Log - Username Will Send.
+2022-12-21 16:50:02,450 [main] INFO Banking_Log - Password Will Send.
+2022-12-21 16:50:03,794 [main] INFO Banking_Log - User Will Login.
+2022-12-21 16:50:05,808 [main] INFO Banking_Log - Test case passed
+2022-12-21 21:24:31,119 [main] INFO Banking_Log - Open Browser.
+2022-12-21 21:24:31,488 [main] INFO Banking_Log - Enter Username.
+2022-12-21 21:24:31,675 [main] INFO Banking_Log - Enter Password.
+2022-12-21 21:24:33,891 [main] INFO Banking_Log - Click On Login Button.
+2022-12-21 21:25:28,110 [main] INFO Banking_Log - Open Browser.
+2022-12-21 21:25:28,297 [main] INFO Banking_Log - Enter Username.
+2022-12-21 21:25:28,486 [main] INFO Banking_Log - Enter Password.
+2022-12-21 21:25:30,975 [main] INFO Banking_Log - Click On Login Button.
+2022-12-21 21:29:02,999 [main] INFO Banking_Log - Open Browser.
+2022-12-21 21:29:03,253 [main] INFO Banking_Log - Enter Username.
+2022-12-21 21:29:03,399 [main] INFO Banking_Log - Enter Password.
+2022-12-21 21:29:08,222 [main] INFO Banking_Log - Click On Login Button.
+2022-12-21 21:30:55,671 [main] INFO Banking_Log - Open Browser.
+2022-12-21 21:30:56,023 [main] INFO Banking_Log - Enter Username.
+2022-12-21 21:30:56,193 [main] INFO Banking_Log - Enter Password.
+2022-12-21 21:31:00,149 [main] INFO Banking_Log - Click On Login Button.
+2022-12-21 21:31:08,306 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 21:31:41,835 [main] INFO Banking_Log - Open Browser.
+2022-12-21 21:31:42,057 [main] INFO Banking_Log - Enter Username.
+2022-12-21 21:31:42,218 [main] INFO Banking_Log - Enter Password.
+2022-12-21 21:31:44,427 [main] INFO Banking_Log - Click On Login Button.
+2022-12-21 21:31:52,605 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 21:32:02,989 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-21 21:32:03,152 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-21 21:32:03,312 [main] INFO Banking_Log - Setting the DOB
+2022-12-21 21:32:03,532 [main] INFO Banking_Log - Setting the Address
+2022-12-21 21:32:03,672 [main] INFO Banking_Log - Setting the City
+2022-12-21 21:32:03,805 [main] INFO Banking_Log - Setting the State
+2022-12-21 21:32:03,933 [main] INFO Banking_Log - Setting the Pin
+2022-12-21 21:32:04,059 [main] INFO Banking_Log - Setting the Telephone
+2022-12-21 21:32:04,227 [main] INFO Banking_Log - Setting the Email
+2022-12-21 21:32:04,362 [main] INFO Banking_Log - Setting the Password.
+2022-12-21 21:32:04,461 [main] INFO Banking_Log - Clicking Submit
+2022-12-21 21:32:41,340 [main] INFO Banking_Log - Open Browser.
+2022-12-21 21:32:41,650 [main] INFO Banking_Log - Enter Username.
+2022-12-21 21:32:42,021 [main] INFO Banking_Log - Enter Password.
+2022-12-21 21:32:44,569 [main] INFO Banking_Log - Click On Login Button.
+2022-12-21 21:32:52,765 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 21:33:04,035 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-21 21:33:04,112 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-21 21:33:04,227 [main] INFO Banking_Log - Setting the DOB
+2022-12-21 21:33:04,416 [main] INFO Banking_Log - Setting the Address
+2022-12-21 21:33:04,520 [main] INFO Banking_Log - Setting the City
+2022-12-21 21:33:04,688 [main] INFO Banking_Log - Setting the State
+2022-12-21 21:33:04,803 [main] INFO Banking_Log - Setting the Pin
+2022-12-21 21:33:04,944 [main] INFO Banking_Log - Setting the Telephone
+2022-12-21 21:33:05,083 [main] INFO Banking_Log - Setting the Email
+2022-12-21 21:33:05,220 [main] INFO Banking_Log - Setting the Password.
+2022-12-21 21:33:08,673 [main] INFO Banking_Log - Clicking Submit
+2022-12-21 21:33:08,766 [main] INFO Banking_Log - ID Created.
+2022-12-21 21:45:15,511 [main] INFO Banking_Log - Open Browser.
+2022-12-21 21:45:15,963 [main] INFO Banking_Log - Enter Username.
+2022-12-21 21:45:16,110 [main] INFO Banking_Log - Enter Password.
+2022-12-21 21:45:20,453 [main] INFO Banking_Log - Click On Login Button.
+2022-12-21 21:45:28,573 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-21 21:45:40,551 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-21 21:45:40,628 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-21 21:45:40,750 [main] INFO Banking_Log - Setting the DOB
+2022-12-21 21:45:40,898 [main] INFO Banking_Log - Setting the Address
+2022-12-21 21:45:41,001 [main] INFO Banking_Log - Setting the City
+2022-12-21 21:45:41,123 [main] INFO Banking_Log - Setting the State
+2022-12-21 21:45:41,251 [main] INFO Banking_Log - Setting the Pin
+2022-12-21 21:45:41,404 [main] INFO Banking_Log - Setting the Telephone
+2022-12-21 21:45:41,609 [main] INFO Banking_Log - Setting the Email
+2022-12-21 21:45:41,733 [main] INFO Banking_Log - Setting the Password.
+2022-12-21 21:45:46,948 [main] INFO Banking_Log - Clicking Submit
+2022-12-21 21:45:47,013 [main] INFO Banking_Log - ID Created.
+2022-12-22 11:00:38,526 [main] INFO Banking_Log - Open Browser.
+2022-12-22 11:00:38,836 [main] INFO Banking_Log - Enter Username.
+2022-12-22 11:00:38,944 [main] INFO Banking_Log - Enter Password.
+2022-12-22 11:00:39,831 [main] INFO Banking_Log - Click On Login Button.
+2022-12-22 11:12:57,595 [main] INFO Banking_Log - Open Browser.
+2022-12-22 11:12:57,779 [main] INFO Banking_Log - Enter Username.
+2022-12-22 11:12:57,938 [main] INFO Banking_Log - Enter Password.
+2022-12-22 11:13:02,895 [main] INFO Banking_Log - Click On Login Button.
+2022-12-22 11:15:57,319 [main] INFO Banking_Log - Open Browser.
+2022-12-22 11:15:57,689 [main] INFO Banking_Log - Enter Username.
+2022-12-22 11:15:57,752 [main] INFO Banking_Log - Enter Password.
+2022-12-22 11:16:01,001 [main] INFO Banking_Log - Click On Login Button.
+2022-12-22 11:18:20,296 [main] INFO Banking_Log - Open Browser.
+2022-12-22 11:18:20,590 [main] INFO Banking_Log - Enter Username.
+2022-12-22 11:18:20,681 [main] INFO Banking_Log - Enter Password.
+2022-12-22 11:18:22,193 [main] INFO Banking_Log - Click On Login Button.
+2022-12-22 11:20:42,174 [main] INFO Banking_Log - Open Browser.
+2022-12-22 11:20:42,326 [main] INFO Banking_Log - Enter Username.
+2022-12-22 11:20:42,406 [main] INFO Banking_Log - Enter Password.
+2022-12-22 11:20:45,290 [main] INFO Banking_Log - Click On Login Button.
+2022-12-22 11:20:53,375 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-22 11:21:07,900 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-22 11:21:08,149 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-22 11:21:08,171 [main] INFO Banking_Log - Setting the DOB
+2022-12-22 11:21:08,231 [main] INFO Banking_Log - Setting the Address
+2022-12-22 11:21:08,467 [main] INFO Banking_Log - Setting the City
+2022-12-22 11:21:08,602 [main] INFO Banking_Log - Setting the State
+2022-12-22 11:21:08,686 [main] INFO Banking_Log - Setting the Pin
+2022-12-22 11:21:08,759 [main] INFO Banking_Log - Setting the Telephone
+2022-12-22 11:21:08,883 [main] INFO Banking_Log - Setting the Email
+2022-12-22 11:21:08,942 [main] INFO Banking_Log - Setting the Password.
+2022-12-22 11:21:09,646 [main] INFO Banking_Log - Clicking Submit
+2022-12-22 11:22:51,152 [main] INFO Banking_Log - Open Browser.
+2022-12-22 11:22:51,380 [main] INFO Banking_Log - Enter Username.
+2022-12-22 11:22:51,565 [main] INFO Banking_Log - Enter Password.
+2022-12-22 11:22:53,583 [main] INFO Banking_Log - Click On Login Button.
+2022-12-22 11:23:01,773 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-22 11:23:12,571 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-22 11:23:12,817 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-22 11:23:13,030 [main] INFO Banking_Log - Setting the DOB
+2022-12-22 11:23:13,253 [main] INFO Banking_Log - Setting the Address
+2022-12-22 11:23:13,390 [main] INFO Banking_Log - Setting the City
+2022-12-22 11:23:13,625 [main] INFO Banking_Log - Setting the State
+2022-12-22 11:23:13,823 [main] INFO Banking_Log - Setting the Pin
+2022-12-22 11:23:14,083 [main] INFO Banking_Log - Setting the Telephone
+2022-12-22 11:23:14,521 [main] INFO Banking_Log - Setting the Email
+2022-12-22 11:23:14,720 [main] INFO Banking_Log - Setting the Password.
+2022-12-22 11:23:17,031 [main] INFO Banking_Log - Clicking Submit
+2022-12-22 11:23:17,115 [main] INFO Banking_Log - ID Created.
+2022-12-22 14:01:08,560 [main] INFO Banking_Log - Open Browser.
+2022-12-22 14:01:08,797 [main] INFO Banking_Log - Enter Username.
+2022-12-22 14:01:08,993 [main] INFO Banking_Log - Enter Password.
+2022-12-22 14:01:09,843 [main] INFO Banking_Log - Click On Login Button.
+2022-12-22 14:03:49,399 [main] INFO Banking_Log - Open Browser.
+2022-12-22 14:03:49,643 [main] INFO Banking_Log - Enter Username.
+2022-12-22 14:03:50,020 [main] INFO Banking_Log - Enter Password.
+2022-12-22 14:03:52,399 [main] INFO Banking_Log - Click On Login Button.
+2022-12-22 14:04:00,604 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-22 14:04:11,783 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-22 14:04:11,899 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-22 14:04:12,089 [main] INFO Banking_Log - Setting the DOB
+2022-12-22 14:04:12,281 [main] INFO Banking_Log - Setting the Address
+2022-12-22 14:04:12,424 [main] INFO Banking_Log - Setting the City
+2022-12-22 14:04:12,574 [main] INFO Banking_Log - Setting the State
+2022-12-22 14:04:12,716 [main] INFO Banking_Log - Setting the Pin
+2022-12-22 14:04:12,856 [main] INFO Banking_Log - Setting the Telephone
+2022-12-22 14:04:13,147 [main] INFO Banking_Log - Setting the Email
+2022-12-22 14:04:13,323 [main] INFO Banking_Log - Setting the Password.
+2022-12-22 14:04:16,606 [main] INFO Banking_Log - Clicking Submit
+2022-12-22 14:04:16,706 [main] INFO Banking_Log - ID Created.
+2022-12-22 14:06:44,759 [main] INFO Banking_Log - Open Browser.
+2022-12-22 14:06:45,073 [main] INFO Banking_Log - Enter Username.
+2022-12-22 14:06:45,294 [main] INFO Banking_Log - Enter Password.
+2022-12-22 14:06:47,559 [main] INFO Banking_Log - Click On Login Button.
+2022-12-22 14:06:55,712 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-22 14:07:06,725 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-22 14:07:06,802 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-22 14:07:07,116 [main] INFO Banking_Log - Setting the DOB
+2022-12-22 14:07:07,402 [main] INFO Banking_Log - Setting the Address
+2022-12-22 14:07:07,677 [main] INFO Banking_Log - Setting the City
+2022-12-22 14:07:07,853 [main] INFO Banking_Log - Setting the State
+2022-12-22 14:07:07,996 [main] INFO Banking_Log - Setting the Pin
+2022-12-22 14:07:08,147 [main] INFO Banking_Log - Setting the Telephone
+2022-12-22 14:07:08,419 [main] INFO Banking_Log - Setting the Email
+2022-12-22 14:07:08,586 [main] INFO Banking_Log - Setting the Password.
+2022-12-22 14:07:11,454 [main] INFO Banking_Log - Clicking Submit
+2022-12-22 14:07:11,550 [main] INFO Banking_Log - ID Created.
+2022-12-22 18:43:32,786 [main] INFO Banking_Log - Open Browser.
+2022-12-22 18:43:33,260 [main] INFO Banking_Log - Enter Username.
+2022-12-22 18:43:33,670 [main] INFO Banking_Log - Enter Password.
+2022-12-22 18:43:37,845 [main] INFO Banking_Log - Click On Login Button.
+2022-12-22 18:43:37,960 [main] INFO Banking_Log - Test case passed
+2022-12-22 18:43:58,671 [main] INFO Banking_Log - Open Browser.
+2022-12-22 18:43:58,893 [main] INFO Banking_Log - Enter Username.
+2022-12-22 18:43:59,010 [main] INFO Banking_Log - Enter Password.
+2022-12-22 18:44:02,483 [main] INFO Banking_Log - Click On Login Button.
+2022-12-22 18:44:10,598 [main] INFO Banking_Log - Clicking On New Customer Link.
+2022-12-22 18:44:21,887 [main] INFO Banking_Log - Setting the Customer Name.
+2022-12-22 18:44:21,976 [main] INFO Banking_Log - Gender Male Button Click
+2022-12-22 18:44:22,137 [main] INFO Banking_Log - Setting the DOB
+2022-12-22 18:44:22,339 [main] INFO Banking_Log - Setting the Address
+2022-12-22 18:44:22,488 [main] INFO Banking_Log - Setting the City
+2022-12-22 18:44:22,641 [main] INFO Banking_Log - Setting the State
+2022-12-22 18:44:22,816 [main] INFO Banking_Log - Setting the Pin
+2022-12-22 18:44:23,120 [main] INFO Banking_Log - Setting the Telephone
+2022-12-22 18:44:23,518 [main] INFO Banking_Log - Setting the Email
+2022-12-22 18:44:23,673 [main] INFO Banking_Log - Setting the Password.
+2022-12-22 18:44:26,079 [main] INFO Banking_Log - Clicking Submit
+2022-12-22 18:44:26,126 [main] INFO Banking_Log - ID Created.
+2022-12-22 18:49:57,674 [main] INFO Banking_Log - Open Browser.
+2022-12-23 11:22:13,047 [main] INFO Banking_Log - Open Browser.
+2022-12-23 11:22:13,392 [main] INFO Banking_Log - Enter Username.
+2022-12-23 11:22:14,036 [main] INFO Banking_Log - Enter Password.
+2022-12-23 11:22:20,371 [main] INFO Banking_Log - Click On Login Button.
+2022-12-23 11:22:20,397 [main] INFO Banking_Log - Login Passed
+2022-12-23 11:22:55,508 [main] INFO Banking_Log - Open Browser.
+2022-12-23 11:22:55,703 [main] INFO Banking_Log - Enter Username.
+2022-12-23 11:22:55,883 [main] INFO Banking_Log - Enter Password.
+2022-12-23 11:22:58,401 [main] INFO Banking_Log - Click On Login Button.
+2022-12-23 11:23:06,818 [main] INFO Banking_Log - LoginFailed
+2022-12-23 11:23:26,977 [main] INFO Banking_Log - Open Browser.
+2022-12-23 11:23:27,290 [main] INFO Banking_Log - Enter Username.
+2022-12-23 11:23:27,707 [main] INFO Banking_Log - Enter Password.
+2022-12-23 11:23:28,232 [main] INFO Banking_Log - Click On Login Button.
+2022-12-23 11:23:34,696 [main] INFO Banking_Log - LoginFailed
+2022-12-23 11:24:04,630 [main] INFO Banking_Log - Open Browser.
+2022-12-23 11:24:04,934 [main] INFO Banking_Log - Enter Username.
+2022-12-23 11:24:05,128 [main] INFO Banking_Log - Enter Password.
+2022-12-23 11:24:06,913 [main] INFO Banking_Log - Click On Login Button.
+2022-12-23 11:24:12,646 [main] INFO Banking_Log - LoginFailed
+2022-12-23 11:24:32,832 [main] INFO Banking_Log - Open Browser.
+2022-12-23 11:24:33,074 [main] INFO Banking_Log - Enter Username.
+2022-12-23 11:24:33,765 [main] INFO Banking_Log - Enter Password.
+2022-12-23 11:24:34,264 [main] INFO Banking_Log - Click On Login Button.
+2022-12-23 11:24:38,054 [main] INFO Banking_Log - LoginFailed
+2023-01-04 20:48:01,602 [main] INFO Banking_Log - Open Browser.
+2023-01-04 20:48:02,104 [main] INFO Banking_Log - Enter Username.
+2023-01-04 20:48:02,300 [main] INFO Banking_Log - Enter Password.
+2023-01-04 20:48:05,562 [main] INFO Banking_Log - Click On Login Button.
+2023-01-04 20:48:05,892 [main] INFO Banking_Log - Test case passed
+2023-01-04 20:48:29,308 [main] INFO Banking_Log - Open Browser.
+2023-01-04 20:48:29,641 [main] INFO Banking_Log - Enter Username.
+2023-01-04 20:48:29,825 [main] INFO Banking_Log - Enter Password.
+2023-01-04 20:48:31,726 [main] INFO Banking_Log - Click On Login Button.
+2023-01-04 20:48:39,956 [main] INFO Banking_Log - Clicking On New Customer Link.
+2023-01-04 20:48:50,841 [main] INFO Banking_Log - Setting the Customer Name.
+2023-01-04 20:48:50,947 [main] INFO Banking_Log - Gender Male Button Click
+2023-01-04 20:48:51,097 [main] INFO Banking_Log - Setting the DOB
+2023-01-04 20:48:51,297 [main] INFO Banking_Log - Setting the Address
+2023-01-04 20:48:51,422 [main] INFO Banking_Log - Setting the City
+2023-01-04 20:48:51,573 [main] INFO Banking_Log - Setting the State
+2023-01-04 20:48:51,709 [main] INFO Banking_Log - Setting the Pin
+2023-01-04 20:48:51,842 [main] INFO Banking_Log - Setting the Telephone
+2023-01-04 20:48:52,025 [main] INFO Banking_Log - Setting the Email
+2023-01-04 20:48:52,160 [main] INFO Banking_Log - Setting the Password.
+2023-01-04 20:48:56,763 [main] INFO Banking_Log - Clicking Submit
+2023-01-04 20:48:56,833 [main] INFO Banking_Log - ID Created.
